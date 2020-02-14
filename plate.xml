@@ -614,7 +614,9 @@ Aliquam ac nisl urna. Aliquam auctor eleifend ex id faucibus. Nullam suscipit an
                   <item link_title="Services" path_part="services">
                       <page_title><![CDATA[Our Services]]></page_title>
                       <main_image><![CDATA[https://4hk74jrt.media.zestyio.com/deli-prep.jpeg]]></main_image>
-                      <body_text><![CDATA[]]></body_text>
+                      <body_text><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat blandit malesuada. Donec a dignissim neque. Nunc luctus finibus neque eu egestas. Donec vulputate tortor quis purus porttitor bibendum. Curabitur mollis felis id turpis ullamcorper imperdiet. Cras vulputate magna et consequat tempus. Mauris eu turpis vel sapien consectetur vestibulum. Nullam pulvinar, lacus vitae luctus accumsan, leo dui posuere massa, eget tempus elit leo at sem. In vitae elit ac tellus blandit porttitor ut porta leo.
+
+Aliquam ac nisl urna. Aliquam auctor eleifend ex id faucibus. Nullam suscipit ante ut magna sagittis placerat. Mauris et lectus nec nisl facilisis ultricies. Pellentesque vel libero diam. Morbi a leo molestie, efficitur quam eget, scelerisque metus. Duis posuere hendrerit neque at pulvinar. Fusce ac fringilla magna. Cras aliquet lacinia bibendum.]]></body_text>
                   </item>
               </items>
           </templateset>
@@ -630,20 +632,20 @@ Aliquam ac nisl urna. Aliquam auctor eleifend ex id faucibus. Nullam suscipit an
                 <item link_title="Bakery" path_part="bakery" parent="services">
                   <page_title><![CDATA[Bakery]]></page_title>
                   <main_image><![CDATA[https://4hk74jrt.media.zestyio.com/dessert-case-2.jpeg]]></main_image>
-                  <body_text><![CDATA[]]>
+                  <body_text><![CDATA[Aliquam imperdiet diam non pretium bibendum. Nam sit amet sagittis lacus. Aliquam vel nulla magna. Quisque pretium ante at urna faucibus ultrices. Etiam eu vulputate elit. Sed eleifend, leo ut convallis gravida, odio dolor rutrum quam, ut tempor urna eros sed dui. Mauris pellentesque in orci accumsan rutrum. Sed velit ex, ultricies a velit sed, ultricies sodales diam. Nam maximus dapibus est non sagittis. Proin fermentum pellentesque nisi, eu hendrerit mauris pulvinar ac. Nulla purus nunc, pretium eget placerat at, rhoncus non tellus. Pellentesque iaculis velit a eros ultricies luctus. Nullam rutrum eleifend nibh id volutpat. Quisque sed nisi nec augue hendrerit lobortis id ut neque. Curabitur et felis augue. Curabitur rhoncus aliquam leo eu sollicitudin.]]>
                 </body_text>
                   <sort_order><![CDATA[1]]></sort_order>
                 </item>
                 <item link_title="Deli" path_part="deli" parent="services">
                   <page_title><![CDATA[Deli]]></page_title>
                   <main_image><![CDATA[https://4hk74jrt.media.zestyio.com/salad.jpg]]></main_image>
-                  <body_text><![CDATA[]]></body_text>
+                  <body_text><![CDATA[Aliquam imperdiet diam non pretium bibendum. Nam sit amet sagittis lacus. Aliquam vel nulla magna. Quisque pretium ante at urna faucibus ultrices. Etiam eu vulputate elit. Sed eleifend, leo ut convallis gravida, odio dolor rutrum quam, ut tempor urna eros sed dui. Mauris pellentesque in orci accumsan rutrum. Sed velit ex, ultricies a velit sed, ultricies sodales diam. Nam maximus dapibus est non sagittis. Proin fermentum pellentesque nisi, eu hendrerit mauris pulvinar ac. Nulla purus nunc, pretium eget placerat at, rhoncus non tellus. Pellentesque iaculis velit a eros ultricies luctus. Nullam rutrum eleifend nibh id volutpat. Quisque sed nisi nec augue hendrerit lobortis id ut neque. Curabitur et felis augue. Curabitur rhoncus aliquam leo eu sollicitudin.]]></body_text>
                   <sort_order><![CDATA[2]]></sort_order>
                 </item>
                 <item link_title="Butcher" path_part="butcher" parent="services">
                   <page_title><![CDATA[Butcher]]></page_title>
                   <main_image><![CDATA[https://4hk74jrt.media.zestyio.com/grilling-meat.jpeg]]></main_image>
-                  <body_text><![CDATA[]]></body_text>
+                  <body_text><![CDATA[Aliquam imperdiet diam non pretium bibendum. Nam sit amet sagittis lacus. Aliquam vel nulla magna. Quisque pretium ante at urna faucibus ultrices. Etiam eu vulputate elit. Sed eleifend, leo ut convallis gravida, odio dolor rutrum quam, ut tempor urna eros sed dui. Mauris pellentesque in orci accumsan rutrum. Sed velit ex, ultricies a velit sed, ultricies sodales diam. Nam maximus dapibus est non sagittis. Proin fermentum pellentesque nisi, eu hendrerit mauris pulvinar ac. Nulla purus nunc, pretium eget placerat at, rhoncus non tellus. Pellentesque iaculis velit a eros ultricies luctus. Nullam rutrum eleifend nibh id volutpat. Quisque sed nisi nec augue hendrerit lobortis id ut neque. Curabitur et felis augue. Curabitur rhoncus aliquam leo eu sollicitudin.]]></body_text>
                   <sort_order><![CDATA[3]]></sort_order>
                 </item>
               </items>
