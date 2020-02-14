@@ -146,14 +146,14 @@
                         <sort_order><![CDATA[1]]></sort_order>
                     </item>
                     <item link_title="Special Offers" path_part="">
-                        <title><![CDATA[Make Every Meal Count]]></title>
-                        <second_line><![CDATA[Use freshest ingredients]]></second_line>
+                        <title><![CDATA[Weekly Specials]]></title>
+                        <second_line><![CDATA[]]></second_line>
                         <background_video></background_video>
-                        <background_image><![CDATA[https://4hk74jrt.media.zestyio.com/food-healthy-wood-table-128402.jpg]]></background_image>
-                        <horizontal_alignment_for_mobile><![CDATA[]]></horizontal_alignment_for_mobile>
-                        <button_text><![CDATA[]]></button_text>
+                        <background_image><![CDATA[https://4hk74jrt.media.zestyio.com/fruits.jpeg]]></background_image>
+                        <horizontal_alignment_for_mobile><![CDATA[Center]]></horizontal_alignment_for_mobile>
+                        <button_text><![CDATA[Check our our specials]]></button_text>
                         <links_to><![CDATA[]]></links_to>
-                        <sort_order><![CDATA[1]]></sort_order>
+                        <sort_order><![CDATA[2]]></sort_order>
                     </item>
                 </items>
             </dataset>
@@ -167,18 +167,18 @@
                     <sort name="sort_order" name_friendly="Sort Order" list="1" />
                 </fields>
                 <items>
-                    <item link_title="" path_part="">
-                        <bubble_title><![CDATA[]]></bubble_title>
+                    <item link_title="From Farm" path_part="">
+                        <bubble_title><![CDATA[From Local Farms]]></bubble_title>
                         <bubble_subtitle><![CDATA[]]></bubble_subtitle>
-                        <bubble_image><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/timeline-kitten.jpeg]]></bubble_image>
-                        <bubble_blurb><![CDATA[]]></bubble_blurb>
+                        <bubble_image><![CDATA[https://4hk74jrt.media.zestyio.com/farm.jpeg]]></bubble_image>
+                        <bubble_blurb><![CDATA[We support local farms to get the freshest ingredients for our customers.]]></bubble_blurb>
                         <sort_order><![CDATA[1]]></sort_order>
                     </item>
                     <item link_title="" path_part="">
-                        <bubble_title><![CDATA[]]></bubble_title>
+                        <bubble_title><![CDATA[To Your Table]]></bubble_title>
                         <bubble_subtitle><![CDATA[]]></bubble_subtitle>
-                        <bubble_image><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/timeline-adult.jpg]]></bubble_image>
-                        <bubble_blurb><![CDATA[]]></bubble_blurb>
+                        <bubble_image><![CDATA[https://4hk74jrt.media.zestyio.com/table.jpg]]></bubble_image>
+                        <bubble_blurb><![CDATA[Feed your family]]></bubble_blurb>
                         <sort_order><![CDATA[2]]></sort_order>
                     </item>
                     <item link_title="" path_part="">
