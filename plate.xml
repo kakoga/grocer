@@ -17,17 +17,17 @@
         </head>
         <!-- CLIPPINGS -->
         <clippings>
-            <text name="site_name" name_friendly="Site Name" required="1"><![CDATA[]]></text>
+            <text name="site_name" name_friendly="Site Name" required="1"><![CDATA[Zesty Grocer]]></text>
             <text name="hero_lead_in_font_size" name_friendly="Hero Lead-in Font Size (pixels)"><![CDATA[40]]></text>
             <text name="hero_body_text_font_size" name_friendly="Hero Body Text Font Size (pixels)"><![CDATA[75]]></text>
             <text name="homepage_header_font_style" name_friendly="Homepage Hero Text Font Style (separate multiple value with a comma)"><![CDATA[Droid Serif, serif]]></text>
             <images name="logo" name_friendly="Site Logo" limit="1" />
             <text name="logo_height" name_friendly="Logo Height (pixels)"><![CDATA[50]]></text>
             <text name="below_logo_text" name_friendly="Below Logo Text"><![CDATA[]]></text>
-            <text name="footer_text" name_friendly="Footer Text"><![CDATA[]]></text>
-            <text name="phone" name_friendly="Main Phone"><![CDATA[]]></text>
+            <text name="footer_text" name_friendly="Footer Text"><![CDATA[Built by Mercato]]></text>
+            <text name="phone" name_friendly="Main Phone"><![CDATA[(555) 555-5555]]></text>
             <text name="telephone_number_height" name_friendly="Telephone Number Height (pixels)"><![CDATA[24]]></text>
-            <text name="petdesk_ref_code" name_friendly="Petdesk Reference Code"><![CDATA[]]></text>
+            <text name="petdesk_ref_code" name_friendly="Mercato Reference Code"><![CDATA[]]></text>
             <wysiwyg_advanced name="pop_up_content" name_friendly="Pop-up Content"><![CDATA[]]></wysiwyg_advanced>
         </clippings>
         <ingredients>
@@ -41,17 +41,17 @@
               <items>
                   <item link_title="" path_part="">
                       <name><![CDATA[Facebook]]></name>
-                      <font_awesome_icon><![CDATA[]]></font_awesome_icon>
+                      <font_awesome_icon><![CDATA[facebook]]></font_awesome_icon>
                       <url><![CDATA[https://www.facebook.com]]></url>
                   </item>
                   <item link_title="" path_part="">
                       <name><![CDATA[Twitter]]></name>
-                      <font_awesome_icon><![CDATA[]]></font_awesome_icon>
+                      <font_awesome_icon><![CDATA[twitter]]></font_awesome_icon>
                       <url><![CDATA[https://www.twitter.com]]></url>
                   </item>
                   <item link_title="" path_part="">
                       <name><![CDATA[Instagram]]></name>
-                      <font_awesome_icon><![CDATA[]]></font_awesome_icon>
+                      <font_awesome_icon><![CDATA[instagram]]></font_awesome_icon>
                       <url><![CDATA[https://www.instagram.com/]]></url>
                   </item>
               </items>
@@ -64,7 +64,7 @@
             </fields>
             <!-- add example comment field in -->
             <items>
-              
+
             </items>
           </dataset>
           <dataset name="footer_links" name_friendly="Footer Links e.g. Terms of Use" parent_item="">
@@ -74,7 +74,7 @@
               <sort name="sort_order" name_friendly="Sort Order" list="1" />
             </fields>
             <items>
-              
+
             </items>
           </dataset>
           <dataset name="footer_logos" name_friendly="Footer Logos" parent_item="">
@@ -85,13 +85,13 @@
             </fields>
             <items>
               <item>
-                <logo_title><![CDATA[]]></logo_title>
-                <footer_logo><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/zesty_footer_logo.png]]></footer_logo>
+                <logo_title><![CDATA[National Co-op Assocation]]></logo_title>
+                <footer_logo><![CDATA[https://4hk74jrt.media.zestyio.com/grocer-coop-logo.png]]></footer_logo>
                 <sort_order><![CDATA[1]]></sort_order>
               </item>
               <item>
-                <logo_title><![CDATA[]]></logo_title>
-                <footer_logo><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/gold_seal_logo.png]]></footer_logo>
+                <logo_title><![CDATA[CA Grocers Association]]></logo_title>
+                <footer_logo><![CDATA[https://4hk74jrt.media.zestyio.com/ca-grocer-assoc-logo.png]]></footer_logo>
                 <sort_order><![CDATA[2]]></sort_order>
               </item>
             </items>
@@ -115,9 +115,9 @@
                     <!-- Squares Section -->
                     <background_pattern><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/mooning.png]]></background_pattern>
                     <!-- Timeline text -->
-                    <timeline_title><![CDATA[]]></timeline_title>
-                    <timeline_subtitle><![CDATA[]]></timeline_subtitle>
-                    <timeline_button_text><![CDATA[]]></timeline_button_text>
+                    <timeline_title><![CDATA[Only the freshest produce]]></timeline_title>
+                    <timeline_subtitle><![CDATA[Locally sourced]]></timeline_subtitle>
+                    <timeline_button_text><![CDATA[Learn More]]></timeline_button_text>
                     <timeline_btn_links_to><![CDATA[]]></timeline_btn_links_to>
                   </item>
               </items>
@@ -138,18 +138,18 @@
                     <item link_title="Care and Wellness for Your Pet" path_part="">
                         <title><![CDATA[]]></title>
                         <second_line><![CDATA[]]></second_line>
-                        <background_video><![CDATA[https://hwd7cn.media.zestyio.com/bigstock-brother-and-sister-petting-the-88547789_1.mp4]]></background_video>
-                        <background_image><![CDATA[https://8096717d1d506ed86549-26127059a655d0d59d9dd6d52a5054ae.ssl.cf2.rackcdn.com/kitten.jpeg]]></background_image>
-                        <horizontal_alignment_for_mobile><![CDATA[]]></horizontal_alignment_for_mobile>
+                        <background_video><![CDATA[]]></background_video>
+                        <background_image><![CDATA[https://4hk74jrt.media.zestyio.com/The_Market_Gallery_2.jpg]]></background_image>
+                        <horizontal_alignment_for_mobile><![CDATA[Center]]></horizontal_alignment_for_mobile>
                         <button_text><![CDATA[]]></button_text>
                         <links_to><![CDATA[]]></links_to>
                         <sort_order><![CDATA[1]]></sort_order>
                     </item>
                     <item link_title="Special Offers" path_part="">
-                        <title><![CDATA[]]></title>
-                        <second_line><![CDATA[]]></second_line>
+                        <title><![CDATA[Make Every Meal Count]]></title>
+                        <second_line><![CDATA[Use freshest ingredients]]></second_line>
                         <background_video></background_video>
-                        <background_image><![CDATA[https://8096717d1d506ed86549-26127059a655d0d59d9dd6d52a5054ae.ssl.cf2.rackcdn.com/kitten.jpeg]]></background_image>
+                        <background_image><![CDATA[https://4hk74jrt.media.zestyio.com/food-healthy-wood-table-128402.jpg]]></background_image>
                         <horizontal_alignment_for_mobile><![CDATA[]]></horizontal_alignment_for_mobile>
                         <button_text><![CDATA[]]></button_text>
                         <links_to><![CDATA[]]></links_to>
@@ -256,7 +256,7 @@
               <wysiwyg_advanced name="content" name_friendly="Page Content" />
             </fields>
             <items>
-              
+
           </items>
         </templateset>
         <!-- GENERIC PAGE END  -->
@@ -427,7 +427,7 @@
                   <sort name="sort_order" name_friendly="Sort Order" list="1" />
               </fields>
               <items>
-                  
+
               </items>
           </dataset>
           <dataset name="breeder_q" name_friendly="Breeder Questions" parent_item="breeder-questions">
@@ -437,7 +437,7 @@
                 <sort name="sort_order" name_friendly="Sort Order" list="1" />
             </fields>
             <items>
-                
+
             </items>
           </dataset>
           <dataset name="external_links" name_friendly="External Links" parent_item="links">
@@ -447,7 +447,7 @@
                 <sort name="sort_order" name_friendly="Sort Order" list="1" />
             </fields>
             <items>
-              
+
             </items>
           </dataset>
           <!-- RESOURCES END -->
@@ -833,7 +833,7 @@
                   <sort name="sort_order" name_friendly="Sort Order" list="1" />
               </fields>
               <items>
-                
+
               </items>
           </dataset>
           <dataset name="career_opportunities" name_friendly="Career Opportunities" parent_item="careers">
@@ -844,7 +844,7 @@
                   <sort name="sort_order" name_friendly="Sort Order" list="1" />
               </fields>
               <items>
-                
+
               </items>
           </dataset>
           <dataset name="about_us_videos" name_friendly="About Us Videos" parent_item="our-videos">
