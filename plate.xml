@@ -117,7 +117,7 @@
                     <!-- Timeline text -->
                     <timeline_title><![CDATA[Only the freshest produce]]></timeline_title>
                     <timeline_subtitle><![CDATA[Locally sourced]]></timeline_subtitle>
-                    <timeline_button_text><![CDATA[Learn More]]></timeline_button_text>
+                    <timeline_button_text><![CDATA[Learn More About Our Specials]]></timeline_button_text>
                     <timeline_btn_links_to><![CDATA[]]></timeline_btn_links_to>
                   </item>
               </items>
@@ -170,22 +170,22 @@
                     <item link_title="From Farm" path_part="">
                         <bubble_title><![CDATA[From Local Farms]]></bubble_title>
                         <bubble_subtitle><![CDATA[]]></bubble_subtitle>
-                        <bubble_image><![CDATA[https://4hk74jrt.media.zestyio.com/farm.jpeg]]></bubble_image>
+                        <bubble_image><![CDATA[https://bt2vsqxl.media.zestyio.com/farm.2241b2e58ecabe09149d5e23f0d0853b.jpeg]]></bubble_image>
                         <bubble_blurb><![CDATA[We support local farms to get the freshest ingredients for our customers.]]></bubble_blurb>
                         <sort_order><![CDATA[1]]></sort_order>
                     </item>
                     <item link_title="" path_part="">
                         <bubble_title><![CDATA[To Your Table]]></bubble_title>
                         <bubble_subtitle><![CDATA[]]></bubble_subtitle>
-                        <bubble_image><![CDATA[https://4hk74jrt.media.zestyio.com/table.jpg]]></bubble_image>
-                        <bubble_blurb><![CDATA[Feed your family]]></bubble_blurb>
+                        <bubble_image><![CDATA[https://bt2vsqxl.media.zestyio.com/table.2241b2e58ecabe09149d5e23f0d0853b.jpg]]></bubble_image>
+                        <bubble_blurb><![CDATA[Only the healthiest meals for your family.]]></bubble_blurb>
                         <sort_order><![CDATA[2]]></sort_order>
                     </item>
                     <item link_title="" path_part="">
-                        <bubble_title><![CDATA[]]></bubble_title>
+                        <bubble_title><![CDATA[Customer Service]]></bubble_title>
                         <bubble_subtitle><![CDATA[]]></bubble_subtitle>
-                        <bubble_image><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/timeline-senior.jpg]]></bubble_image>
-                        <bubble_blurb><![CDATA[]]></bubble_blurb>
+                        <bubble_image><![CDATA[https://bt2vsqxl.media.zestyio.com/service.2241b2e58ecabe09149d5e23f0d0853b.jpeg]]></bubble_image>
+                        <bubble_blurb><![CDATA[Come and visit us! We can't wait to see you.]]></bubble_blurb>
                         <sort_order><![CDATA[3]]></sort_order>
                     </item>
                 </items>
