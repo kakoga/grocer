@@ -210,18 +210,18 @@
                 <sort_order><![CDATA[1]]></sort_order>
               </item>
               <item>
-                <image_title><![CDATA[]]></image_title>
-                <image><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/homepage-square-2.jpeg]]></image>
+                <image_title><![CDATA[In the Heart of Downtown]]></image_title>
+                <image><![CDATA[https://bt2vsqxl.media.zestyio.com/view-our-gallery.f22ae09f0b7fa2de1726e23c3458bb7a.jpg]]></image>
                 <image_caption><![CDATA[]]></image_caption>
-                    <button_text><![CDATA[]]></button_text>
+                    <button_text><![CDATA[Explore the Store]]></button_text>
                     <links_to><![CDATA[]]></links_to>
                 <sort_order><![CDATA[2]]></sort_order>
               </item>
               <item>
-                <image_title><![CDATA[]]></image_title>
-                <image><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/homepage-square-3.jpg]]></image>
+                <image_title><![CDATA[Specialty Products?]]></image_title>
+                <image><![CDATA[https://bt2vsqxl.media.zestyio.com/contact-us.f22ae09f0b7fa2de1726e23c3458bb7a.jpg]]></image>
                 <image_caption><![CDATA[]]></image_caption>
-                    <button_text><![CDATA[]]></button_text>
+                    <button_text><![CDATA[Contact Us]]></button_text>
                     <links_to><![CDATA[]]></links_to>
                 <sort_order><![CDATA[3]]></sort_order>
               </item>
@@ -617,7 +617,7 @@
               </items>
           </templateset>
           <!-- Services Pageset -->
-          <pageset name="vet_services" name_friendly="Vet Services" view="vet_services" parent_item="services">
+          <pageset name="vet_services" name_friendly="Our Services" view="vet_services" parent_item="services">
               <fields>
                   <text name="page_title" name_friendly="Page Title" required="1" list="1" />
                   <images name="main_image" name_friendly="Main Image" list="1" />
@@ -625,30 +625,24 @@
                   <sort name="sort_order" name_friendly="Sort Order" required="1" list="1" />
               </fields>
               <items>
-                <item link_title="General Health" path_part="general-health" parent="services">
-                  <page_title><![CDATA[General Health]]></page_title>
-                  <main_image><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/general-health-main-image.jpeg]]></main_image>
+                <item link_title="Bakery" path_part="bakery" parent="services">
+                  <page_title><![CDATA[Bakery]]></page_title>
+                  <main_image><![CDATA[https://4hk74jrt.media.zestyio.com/dessert-case-2.jpeg]]></main_image>
                   <body_text><![CDATA[]]>
                 </body_text>
                   <sort_order><![CDATA[1]]></sort_order>
                 </item>
-                <item link_title="Vaccines" path_part="vaccines" parent="services">
-                  <page_title><![CDATA[Vaccines]]></page_title>
-                  <main_image><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/general-health-main-image.jpeg]]></main_image>
+                <item link_title="Deli" path_part="deli" parent="services">
+                  <page_title><![CDATA[Deli]]></page_title>
+                  <main_image><![CDATA[https://4hk74jrt.media.zestyio.com/salad.jpg]]></main_image>
                   <body_text><![CDATA[]]></body_text>
                   <sort_order><![CDATA[2]]></sort_order>
                 </item>
-                <item link_title="Care Packages" path_part="care-packages" parent="services">
-                  <page_title><![CDATA[Care Packages]]></page_title>
-                  <main_image><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/general-health-main-image.jpeg]]></main_image>
+                <item link_title="Butcher" path_part="butcher" parent="services">
+                  <page_title><![CDATA[Butcher]]></page_title>
+                  <main_image><![CDATA[https://4hk74jrt.media.zestyio.com/grilling-meat.jpeg]]></main_image>
                   <body_text><![CDATA[]]></body_text>
                   <sort_order><![CDATA[3]]></sort_order>
-                </item>
-                <item link_title="Dental Care" path_part="dental-care" parent="services">
-                  <page_title><![CDATA[Dental Care]]></page_title>
-                  <main_image><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/general-health-main-image.jpeg]]></main_image>
-                  <body_text><![CDATA[]]></body_text>
-                  <sort_order><![CDATA[4]]></sort_order>
                 </item>
               </items>
           </pageset>
