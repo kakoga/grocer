@@ -453,16 +453,16 @@
           <!-- RESOURCES END -->
 
          <!-- 4. PROMOTIONS -->
-          <templateset name="promotions" name_friendly="Promotions" view="promotions">
+          <templateset name="weekly_specials" name_friendly="Weekly Specials" view="promotions">
               <fields>
                   <text name="page_title" name_friendly="Page Title" required="1" />
                   <images name="main_image" name_friendly="Main Image" limit="1" />
                   <wysiwyg_advanced name="body_text" name_friendly="Body Text" />
               </fields>
               <items>
-                  <item link_title="Promotions" path_part="promotions">
-                      <page_title><![CDATA[Promotions]]></page_title>
-                      <main_image><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/standard-hero.jpg]]></main_image>
+                  <item link_title="Weekly Specials" path_part="weekly-specials">
+                      <page_title><![CDATA[Weekly Specials]]></page_title>
+                      <main_image><![CDATA[https://4hk74jrt.media.zestyio.com/sale.jpeg]]></main_image>
                       <body_text>
                         <![CDATA[]]>
                       </body_text>
