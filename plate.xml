@@ -241,8 +241,8 @@
               <item>
                 <about_section_title><![CDATA[]]></about_section_title>
                 <about_section_image><![CDATA[https://f0fe9a183aeb6bd98bc6-d5f45728266591c39a8b67e0df08ace1.ssl.cf2.rackcdn.com/abt-section-transparent-cat.png]]></about_section_image>
-                <about_section_copy><![CDATA[]]></about_section_copy>
-                <about_section_button_txt><![CDATA[]]></about_section_button_txt>
+                <about_section_copy><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat blandit malesuada. Donec a dignissim neque. Nunc luctus finibus neque eu egestas. Donec vulputate tortor quis purus porttitor bibendum. Curabitur mollis felis id turpis ullamcorper imperdiet. Cras vulputate magna et consequat tempus. Mauris eu turpis vel sapien consectetur vestibulum. Nullam pulvinar, lacus vitae luctus accumsan, leo dui posuere massa, eget tempus elit leo at sem. In vitae elit ac tellus blandit porttitor ut porta leo.]]></about_section_copy>
+                <about_section_button_txt><![CDATA[Learn More]]></about_section_button_txt>
                 <about_section_btn_links_to><![CDATA[]]></about_section_btn_links_to>
                 <sort_order><![CDATA[1]]></sort_order>
               </item>
@@ -464,7 +464,9 @@
                       <page_title><![CDATA[Weekly Specials]]></page_title>
                       <main_image><![CDATA[https://4hk74jrt.media.zestyio.com/sale.jpeg]]></main_image>
                       <body_text>
-                        <![CDATA[]]>
+                        <![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat blandit malesuada. Donec a dignissim neque. Nunc luctus finibus neque eu egestas. Donec vulputate tortor quis purus porttitor bibendum. Curabitur mollis felis id turpis ullamcorper imperdiet. Cras vulputate magna et consequat tempus. Mauris eu turpis vel sapien consectetur vestibulum. Nullam pulvinar, lacus vitae luctus accumsan, leo dui posuere massa, eget tempus elit leo at sem. In vitae elit ac tellus blandit porttitor ut porta leo.
+
+Aliquam ac nisl urna. Aliquam auctor eleifend ex id faucibus. Nullam suscipit ante ut magna sagittis placerat. Mauris et lectus nec nisl facilisis ultricies. Pellentesque vel libero diam. Morbi a leo molestie, efficitur quam eget, scelerisque metus. Duis posuere hendrerit neque at pulvinar. Fusce ac fringilla magna. Cras aliquet lacinia bibendum.]]>
                       </body_text>
                   </item>
               </items>
