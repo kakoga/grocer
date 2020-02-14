@@ -281,14 +281,14 @@
               <items>
                   <item link_title="Contact Us" path_part="contact-us" parent_item="contact-us">
                       <page_title><![CDATA[Contact Us]]></page_title>
-                      <main_image><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/standard-hero.jpg]]></main_image>
-                      <address_one><![CDATA[]]></address_one>
-                      <address_two><![CDATA[]]></address_two>
-                      <address_three><![CDATA[]]></address_three>
+                      <main_image><![CDATA[https://4hk74jrt.media.zestyio.com/scan-app.jpeg]]></main_image>
+                      <address_one><![CDATA[123 Jupiter Lane]]></address_one>
+                      <address_two><![CDATA[Los Angeles, CA 55555]]></address_two>
+                      <address_three><![CDATA[CA]]></address_three>
                       <general_info_one><![CDATA[For general information, questions, appointment requests, call us at:]]></general_info_one>
-                      <phone_number_one><![CDATA[]]></phone_number_one>
+                      <phone_number_one><![CDATA[(555) 555-5555]]></phone_number_one>
                       <general_info_two><![CDATA[]]></general_info_two>
-                      <phone_number_two><![CDATA[]]></phone_number_two>
+                      <phone_number_two><![CDATA[(555) 555-5555]]></phone_number_two>
                       <hours_title><![CDATA[Hours]]></hours_title>
                       <special_hours_info><![CDATA[]]></special_hours_info>
                       <general_info_three><![CDATA[]]></general_info_three>
@@ -307,43 +307,43 @@
                <item>
                  <day_of_week><![CDATA[Sunday]]></day_of_week>
                  <open><![CDATA[9:00]]></open>
-                 <close><![CDATA[3:00]]></close>
+                 <close><![CDATA[8:00]]></close>
                  <sort_order><![CDATA[1]]></sort_order>
                </item>
                <item>
                  <day_of_week><![CDATA[Monday]]></day_of_week>
                  <open><![CDATA[8:00]]></open>
-                 <close><![CDATA[7:00]]></close>
+                 <close><![CDATA[9:00]]></close>
                  <sort_order><![CDATA[2]]></sort_order>
                </item>
                <item>
                  <day_of_week><![CDATA[Tuesday]]></day_of_week>
                  <open><![CDATA[8:00]]></open>
-                 <close><![CDATA[7:00]]></close>
+                 <close><![CDATA[9:00]]></close>
                  <sort_order><![CDATA[3]]></sort_order>
                </item>
                <item>
                  <day_of_week><![CDATA[Wednesday]]></day_of_week>
                  <open><![CDATA[9:00]]></open>
-                 <close><![CDATA[5:00]]></close>
+                 <close><![CDATA[9:00]]></close>
                  <sort_order><![CDATA[4]]></sort_order>
                </item>
                <item>
                  <day_of_week><![CDATA[Thursday]]></day_of_week>
                  <open><![CDATA[8:00]]></open>
-                 <close><![CDATA[7:00]]></close>
+                 <close><![CDATA[9:00]]></close>
                  <sort_order><![CDATA[5]]></sort_order>
                </item>
                <item>
                  <day_of_week><![CDATA[Friday]]></day_of_week>
                  <open><![CDATA[8:00]]></open>
-                 <close><![CDATA[7:00]]></close>
+                 <close><![CDATA[10:00]]></close>
                  <sort_order><![CDATA[6]]></sort_order>
                </item>
                <item>
                  <day_of_week><![CDATA[Saturday]]></day_of_week>
                  <open><![CDATA[9:00]]></open>
-                 <close><![CDATA[3:00]]></close>
+                 <close><![CDATA[10:00]]></close>
                  <sort_order><![CDATA[7]]></sort_order>
                </item>
              </items>
@@ -611,7 +611,7 @@
               <items>
                   <item link_title="Services" path_part="services">
                       <page_title><![CDATA[Our Services]]></page_title>
-                      <main_image><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/standard-hero.jpg]]></main_image>
+                      <main_image><![CDATA[https://4hk74jrt.media.zestyio.com/deli-prep.jpeg]]></main_image>
                       <body_text><![CDATA[]]></body_text>
                   </item>
               </items>
