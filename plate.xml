@@ -796,7 +796,7 @@ Aliquam ac nisl urna. Aliquam auctor eleifend ex id faucibus. Nullam suscipit an
                       <body_text>
                         <![CDATA[<p>Phasellus velit enim, scelerisque a lorem ut, ornare facilisis mi. Nullam non nisi at mauris lobortis finibus. Nulla eu leo eu elit commodo pharetra eu pulvinar urna. Nullam mattis malesuada dictum. Vestibulum in interdum neque. In vitae laoreet urna. Nullam vehicula euismod metus, non dignissim nisi lobortis in. Etiam felis arcu, malesuada nec lacinia ut, pretium ut lacus. Morbi dignissim turpis non urna placerat tempor. Nulla facilisi. Cras in massa et nulla rhoncus facilisis.</p>]]>
                       </body_text>
-                      <number_of_cols><![CDATA[3]]></number_of_cols>
+                      <number_of_cols><![CDATA[2]]></number_of_cols>
                   </item>
               </items>
           </templateset>
@@ -829,7 +829,7 @@ Aliquam ac nisl urna. Aliquam auctor eleifend ex id faucibus. Nullam suscipit an
               <items>
                   <item link_title="Careers" path_part="careers" parent="about-us">
                       <page_title><![CDATA[Careers]]></page_title>
-                      <main_image><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/standard-hero.jpg]]></main_image>
+                      <main_image><![CDATA[https://bt2vsqxl.media.zestyio.com/team.9c27d5af619089da8db7cb29e414f6ac.jpeg]]></main_image>
                       <body_text>
                         <![CDATA[Aenean consequat vitae odio id cursus. Sed vehicula ut eros id convallis. Maecenas risus ligula, eleifend imperdiet risus vel, iaculis sollicitudin ligula. Nullam malesuada nec urna sed viverra. Cras ultricies vulputate eros eu ultricies. Nunc ultricies mauris non ante sodales pulvinar. Sed vel posuere sapien, sit amet efficitur mauris. Pellentesque ultrices viverra tempus. Fusce id ligula eleifend, gravida nunc eu, pretium felis. Mauris laoreet velit et ligula gravida pellentesque.]]>
                     </body_text>
@@ -900,35 +900,35 @@ Aliquam ac nisl urna. Aliquam auctor eleifend ex id faucibus. Nullam suscipit an
               </fields>
               <items>
                 <item>
-                  <employee_first_name><![CDATA[]]></employee_first_name>
-                  <employee_last_name><![CDATA[]]></employee_last_name>
+                  <employee_first_name><![CDATA[Frank]]></employee_first_name>
+                  <employee_last_name><![CDATA[Johnson]]></employee_last_name>
                   <employee_photo><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/about-us-employee-photo.png]]></employee_photo>
-                  <employee_bio><![CDATA[]]></employee_bio>
-                  <employee_category><![CDATA[]]></employee_category>
+                  <employee_bio><![CDATA[<p>Aenean consequat vitae odio id cursus. Sed vehicula ut eros id convallis. Maecenas risus ligula, eleifend imperdiet risus vel, iaculis sollicitudin ligula. Nullam malesuada nec urna sed viverra. Cras ultricies vulputate eros eu ultricies. Nunc ultricies mauris non ante sodales pulvinar. Sed vel posuere sapien, sit amet efficitur mauris. Pellentesque ultrices viverra tempus. Fusce id ligula eleifend, gravida nunc eu, pretium felis. Mauris laoreet velit et ligula gravida pellentesque.</p>]]></employee_bio>
+                  <employee_category><![CDATA[595]]></employee_category>
                   <sort_order><![CDATA[1]]></sort_order>
                 </item>
                 <item>
-                  <employee_first_name><![CDATA[]]></employee_first_name>
-                  <employee_last_name><![CDATA[]]></employee_last_name>
+                  <employee_first_name><![CDATA[June]]></employee_first_name>
+                  <employee_last_name><![CDATA[Placer]]></employee_last_name>
                   <employee_photo><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/about-us-employee-photo.png]]></employee_photo>
-                  <employee_bio><![CDATA[]]></employee_bio>
-                  <employee_category><![CDATA[]]></employee_category>
+                  <employee_bio><![CDATA[<p>Aenean consequat vitae odio id cursus. Sed vehicula ut eros id convallis. Maecenas risus ligula, eleifend imperdiet risus vel, iaculis sollicitudin ligula. Nullam malesuada nec urna sed viverra. Cras ultricies vulputate eros eu ultricies. Nunc ultricies mauris non ante sodales pulvinar. Sed vel posuere sapien, sit amet efficitur mauris. Pellentesque ultrices viverra tempus. Fusce id ligula eleifend, gravida nunc eu, pretium felis. Mauris laoreet velit et ligula gravida pellentesque.</p>]]></employee_bio>
+                  <employee_category><![CDATA[595]]></employee_category>
                   <sort_order><![CDATA[2]]></sort_order>
                 </item>
                 <item>
-                  <employee_first_name><![CDATA[]]></employee_first_name>
-                  <employee_last_name><![CDATA[]]></employee_last_name>
+                  <employee_first_name><![CDATA[Kevin]]></employee_first_name>
+                  <employee_last_name><![CDATA[Hunt]]></employee_last_name>
                   <employee_photo><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/about-us-employee-photo.png]]></employee_photo>
-                  <employee_bio><![CDATA[]]></employee_bio>
-                  <employee_category><![CDATA[]]></employee_category>
+                  <employee_bio><![CDATA[<p>Aenean consequat vitae odio id cursus. Sed vehicula ut eros id convallis. Maecenas risus ligula, eleifend imperdiet risus vel, iaculis sollicitudin ligula. Nullam malesuada nec urna sed viverra. Cras ultricies vulputate eros eu ultricies. Nunc ultricies mauris non ante sodales pulvinar. Sed vel posuere sapien, sit amet efficitur mauris. Pellentesque ultrices viverra tempus. Fusce id ligula eleifend, gravida nunc eu, pretium felis. Mauris laoreet velit et ligula gravida pellentesque.</p>]]></employee_bio>
+                  <employee_category><![CDATA[595]]></employee_category>
                   <sort_order><![CDATA[3]]></sort_order>
                 </item>
                 <item>
-                  <employee_first_name><![CDATA[]]></employee_first_name>
-                  <employee_last_name><![CDATA[]]></employee_last_name>
+                  <employee_first_name><![CDATA[Mikki]]></employee_first_name>
+                  <employee_last_name><![CDATA[Eagles]]></employee_last_name>
                   <employee_photo><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/about-us-employee-photo.png]]></employee_photo>
-                  <employee_bio><![CDATA[]]></employee_bio>
-                  <employee_category><![CDATA[]]></employee_category>
+                  <employee_bio><![CDATA[<p>Aenean consequat vitae odio id cursus. Sed vehicula ut eros id convallis. Maecenas risus ligula, eleifend imperdiet risus vel, iaculis sollicitudin ligula. Nullam malesuada nec urna sed viverra. Cras ultricies vulputate eros eu ultricies. Nunc ultricies mauris non ante sodales pulvinar. Sed vel posuere sapien, sit amet efficitur mauris. Pellentesque ultrices viverra tempus. Fusce id ligula eleifend, gravida nunc eu, pretium felis. Mauris laoreet velit et ligula gravida pellentesque.</p>]]></employee_bio>
+                  <employee_category><![CDATA[594]]></employee_category>
                   <sort_order><![CDATA[4]]></sort_order>
                 </item>
               </items>
@@ -973,7 +973,24 @@ Aliquam ac nisl urna. Aliquam auctor eleifend ex id faucibus. Nullam suscipit an
                   <sort name="sort_order" name_friendly="Sort Order" list="1" />
               </fields>
               <items>
-
+                <item>
+                                  <job_title><![CDATA[Store Manager]]></job_title>
+                                  <job_location><![CDATA[San Diego, CA]]></job_location>
+                                  <job_description><![CDATA[<p>Mauris bibendum felis id nisi tincidunt rhoncus id eu dolor. Fusce imperdiet auctor mi vel ultricies. Duis egestas lacinia pretium. Nullam lobortis venenatis lorem, non efficitur quam sodales sed. Vestibulum a turpis odio. Nulla mattis lobortis ipsum ut convallis. Vivamus vestibulum lorem nisl, ac aliquam nunc lobortis a. Quisque ultrices convallis nunc, vel dictum magna facilisis in. Fusce et dolor sem. Duis hendrerit condimentum est, eu condimentum ante fringilla ac.</p>]]></job_description>
+                                  <sort_order><![CDATA[1]]></sort_order>
+                                </item>
+                                <item>
+                                  <job_title><![CDATA[Bakery Manager]]></job_title>
+                                  <job_location><![CDATA[Santa Ana, CA]]></job_location>
+                                  <job_description><![CDATA[<p>Mauris bibendum felis id nisi tincidunt rhoncus id eu dolor. Fusce imperdiet auctor mi vel ultricies. Duis egestas lacinia pretium. Nullam lobortis venenatis lorem, non efficitur quam sodales sed. Vestibulum a turpis odio. Nulla mattis lobortis ipsum ut convallis. Vivamus vestibulum lorem nisl, ac aliquam nunc lobortis a. Quisque ultrices convallis nunc, vel dictum magna facilisis in. Fusce et dolor sem. Duis hendrerit condimentum est, eu condimentum ante fringilla ac. </p>]]></job_description>
+                                  <sort_order><![CDATA[2]]></sort_order>
+                                </item>
+                                <item>
+                                  <job_title><![CDATA[Cashier]]></job_title>
+                                  <job_location><![CDATA[Los Angeles, CA]]></job_location>
+                                  <job_description><![CDATA[<p>Mauris bibendum felis id nisi tincidunt rhoncus id eu dolor. Fusce imperdiet auctor mi vel ultricies. Duis egestas lacinia pretium. Nullam lobortis venenatis lorem, non efficitur quam sodales sed. Vestibulum a turpis odio. Nulla mattis lobortis ipsum ut convallis. Vivamus vestibulum lorem nisl, ac aliquam nunc lobortis a. Quisque ultrices convallis nunc, vel dictum magna facilisis in. Fusce et dolor sem. Duis hendrerit condimentum est, eu condimentum ante fringilla ac. </p>]]></job_description>
+                                  <sort_order><![CDATA[3]]></sort_order>
+                                </item>
               </items>
           </dataset>
           <dataset name="about_us_videos" name_friendly="About Us Videos" parent_item="our-videos">
@@ -1063,7 +1080,7 @@ Aliquam ac nisl urna. Aliquam auctor eleifend ex id faucibus. Nullam suscipit an
               </items>
           </templateset>
           <!-- office tour - office photo dataset -->
-          <dataset name="office_photos" name_friendly="Office Photos" parent_item="office-tour">
+          <dataset name="office_photos" name_friendly="Office Photos" parent_item="store-tour">
               <fields>
                   <text name="photo_title" name_friendly="Photo Title"  list="1" />
                   <text name="photo_category" name_friendly="Photo Category" list="1" />
