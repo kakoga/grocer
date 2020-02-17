@@ -19,7 +19,6 @@
 						<p class="large">{{ deal.promo_title }}</p>
 						<p>{{ deal.promo_description }}</p>
 						<p>Promo code: {{ deal.promo_code }}</p>
-						<a href"{{ deal.promo_print_coupon }}" target="blank">Click for printable coupon</a>
 
 					</div>
 					{{ end-each }}
