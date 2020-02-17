@@ -362,7 +362,13 @@
                       <page_title><![CDATA[Recipes]]></page_title>
                       <main_image><![CDATA[https://bt2vsqxl.media.zestyio.com/salad.jpg]]></main_image>
                       <body_text>
-                        <![CDATA[]]>
+                        <![CDATA[<p>Mauris vel ante ac magna consectetur sagittis. Curabitur ac nunc tellus. Vivamus facilisis magna turpis, quis hendrerit justo aliquam non. Morbi varius sapien felis, vitae luctus leo ornare in. Nulla vitae eleifend mauris. Nullam libero nisi, mollis a fermentum nec, iaculis a turpis. Nulla facilisis elementum commodo. Morbi gravida est in arcu fermentum, vel scelerisque dui congue. Pellentesque mi urna, vulputate id augue nec, eleifend pharetra mi. Ut id semper metus. Fusce sed magna commodo, bibendum odio eget, iaculis metus.</p>
+
+<p>Phasellus velit enim, scelerisque a lorem ut, ornare facilisis mi. Nullam non nisi at mauris lobortis finibus. Nulla eu leo eu elit commodo pharetra eu pulvinar urna. Nullam mattis malesuada dictum. Vestibulum in interdum neque. In vitae laoreet urna. Nullam vehicula euismod metus, non dignissim nisi lobortis in. Etiam felis arcu, malesuada nec lacinia ut, pretium ut lacus. Morbi dignissim turpis non urna placerat tempor. Nulla facilisi. Cras in massa et nulla rhoncus facilisis.</p>
+
+<p>Aenean sollicitudin tristique pulvinar. Vivamus pretium turpis eros, quis aliquam diam consequat id. Etiam ex nibh, interdum vel auctor eget, efficitur consectetur dolor. Vivamus vel luctus sem. Duis ut mattis nisi, aliquet suscipit risus. Vivamus iaculis orci ac turpis hendrerit, non ultrices neque tempus. Aenean vel malesuada enim, eu egestas ante. Aenean justo ex, accumsan eget massa a, aliquet aliquam odio. In vitae consectetur lorem.</p>
+
+<p>Donec lobortis pretium lorem tempus lacinia. Donec enim neque, posuere ut augue id, commodo feugiat risus. Curabitur sodales pretium lectus, at maximus tortor pretium non. In molestie quam non ligula scelerisque tristique. Duis vitae massa eu turpis tempor consectetur non nec tortor. Nullam blandit pellentesque maximus. Cras vitae tellus id dolor dictum aliquam ut at justo. Suspendisse eu imperdiet metus. Proin quis libero at metus suscipit faucibus at eget est. Etiam interdum metus est, eu accumsan nisl mollis vitae. Pellentesque vel egestas massa. Sed porta velit accumsan, fringilla lectus vitae, posuere sem.</p>]]>
                       </body_text>
                   </item>
                 </items>
@@ -464,9 +470,9 @@
                       <page_title><![CDATA[Weekly Specials]]></page_title>
                       <main_image><![CDATA[https://4hk74jrt.media.zestyio.com/sale.jpeg]]></main_image>
                       <body_text>
-                        <![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat blandit malesuada. Donec a dignissim neque. Nunc luctus finibus neque eu egestas. Donec vulputate tortor quis purus porttitor bibendum. Curabitur mollis felis id turpis ullamcorper imperdiet. Cras vulputate magna et consequat tempus. Mauris eu turpis vel sapien consectetur vestibulum. Nullam pulvinar, lacus vitae luctus accumsan, leo dui posuere massa, eget tempus elit leo at sem. In vitae elit ac tellus blandit porttitor ut porta leo.
+                        <![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat blandit malesuada. Donec a dignissim neque. Nunc luctus finibus neque eu egestas. Donec vulputate tortor quis purus porttitor bibendum. Curabitur mollis felis id turpis ullamcorper imperdiet. Cras vulputate magna et consequat tempus. Mauris eu turpis vel sapien consectetur vestibulum. Nullam pulvinar, lacus vitae luctus accumsan, leo dui posuere massa, eget tempus elit leo at sem. In vitae elit ac tellus blandit porttitor ut porta leo.</p>
 
-Aliquam ac nisl urna. Aliquam auctor eleifend ex id faucibus. Nullam suscipit ante ut magna sagittis placerat. Mauris et lectus nec nisl facilisis ultricies. Pellentesque vel libero diam. Morbi a leo molestie, efficitur quam eget, scelerisque metus. Duis posuere hendrerit neque at pulvinar. Fusce ac fringilla magna. Cras aliquet lacinia bibendum.]]>
+<p>Aliquam ac nisl urna. Aliquam auctor eleifend ex id faucibus. Nullam suscipit ante ut magna sagittis placerat. Mauris et lectus nec nisl facilisis ultricies. Pellentesque vel libero diam. Morbi a leo molestie, efficitur quam eget, scelerisque metus. Duis posuere hendrerit neque at pulvinar. Fusce ac fringilla magna. Cras aliquet lacinia bibendum.</p>]]>
                       </body_text>
                   </item>
               </items>
