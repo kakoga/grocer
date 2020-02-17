@@ -478,7 +478,46 @@
                 <sort name="sort_order" name_friendly="Sort Order" list="1" />
             </fields>
             <items>
-
+              <item>
+                <question><![CDATA[Lorem Ipsum Dolor]]></question>
+                <answer><![CDATA[<div itemprop="name"><span style="letter-spacing: 0px;">Recipe type: </span><span itemprop="recipeCategory" style="letter-spacing: 0px;">Example</span></div>
+              <div>
+              <div>Cuisine:&nbsp;<span itemprop="recipeCuisine">Italian</span></div>
+              <div></div>
+              <div>
+              <p>Prep time:&nbsp;&nbsp;<time itemprop="prepTime" datetime="PT20M">20 mins</time></p>
+              <p>Cook time:&nbsp;&nbsp;<time itemprop="cookTime" datetime="PT60M">60 mins</time></p>
+              <p>Total time:&nbsp;&nbsp;<time itemprop="totalTime" datetime="PT1H20M">1 hour 20 mins</time></p>
+              </div>
+              <div></div>
+              <div>Serves:&nbsp;<span itemprop="recipeYield">5</span></div>
+              <div>&nbsp;</div>
+              </div>
+              <p itemprop="description">Mauris vel ante ac magna consectetur sagittis. Curabitur ac nunc tellus.&nbsp;</p>
+              <div>
+              <div>INGREDIENTS</div>
+              <ul>
+              <li itemprop="ingredients" style="list-style-type: disc;">olives</li>
+              <li itemprop="ingredients" style="list-style-type: disc;">cheese</li>
+              <li itemprop="ingredients" style="list-style-type: disc;">bread</li>
+              <li itemprop="ingredients" style="list-style-type: disc;">mayonnaise</li>
+              <li itemprop="ingredients" style="list-style-type: disc;">eggs</li>
+              <li itemprop="ingredients" style="list-style-type: disc;">milk</li>
+              <li itemprop="ingredients" style="list-style-type: disc;">breadcrumbs</li>
+              <li itemprop="ingredients" style="list-style-type: disc;">chicken breast</li>
+              </ul>
+              <div></div>
+              </div>
+              <div>
+              <p>INSTRUCTIONS</p>
+              <ol>
+              <li itemprop="recipeInstructions" style="list-style-type: decimal;">Donec lobortis pretium lorem tempus lacinia. Donec enim neque, posuere ut augue id, commodo feugiat risus. Curabitur sodales pretium lectus, at maximus tortor pretium non. In molestie quam non ligula scelerisque tristique. Duis vitae massa eu turpis tempor consectetur non nec tortor. Nullam blandit pellentesque maximus. Cras vitae tellus id dolor dictum aliquam ut at justo. Suspendisse eu imperdiet metus. Proin quis libero at metus suscipit faucibus at eget est. Etiam interdum metus est, eu accumsan nisl mollis vitae. Pellentesque vel egestas massa. Sed porta velit accumsan, fringilla lectus vitae, posuere sem.</li>
+              <li itemprop="recipeInstructions" style="list-style-type: decimal;">Vivamus vel luctus sem. Duis ut mattis nisi, aliquet suscipit risus. Vivamus iaculis orci ac turpis hendrerit, non ultrices neque tempus. Aenean vel malesuada enim, eu egestas ante. Aenean justo ex, accumsan eget massa a, aliquet aliquam odio. In vitae consectetur lorem.</li>
+              <li itemprop="recipeInstructions" style="list-style-type: decimal;">Non dignissim nisi lobortis in. Etiam felis arcu, malesuada nec lacinia ut, pretium ut lacus. Morbi dignissim turpis non urna placerat tempor. Nulla facilisi. Cras in massa et nulla rhoncus facilisis</li>
+              </ol>
+              </div>]]></answer>
+                <sort_order><![CDATA[1]]></sort_order>
+              </item>
             </items>
           </dataset>
           <dataset name="external_links" name_friendly="Dinner Recipes" parent_item="dinner">
@@ -488,7 +527,46 @@
                 <sort name="sort_order" name_friendly="Sort Order" list="1" />
             </fields>
             <items>
-
+              <item>
+                <link_title><![CDATA[Lorem Ipsum Dolor]]></link_title>
+                <link_url><![CDATA[<div itemprop="name"><span style="letter-spacing: 0px;">Recipe type: </span><span itemprop="recipeCategory" style="letter-spacing: 0px;">Example</span></div>
+              <div>
+              <div>Cuisine:&nbsp;<span itemprop="recipeCuisine">Italian</span></div>
+              <div></div>
+              <div>
+              <p>Prep time:&nbsp;&nbsp;<time itemprop="prepTime" datetime="PT20M">20 mins</time></p>
+              <p>Cook time:&nbsp;&nbsp;<time itemprop="cookTime" datetime="PT60M">60 mins</time></p>
+              <p>Total time:&nbsp;&nbsp;<time itemprop="totalTime" datetime="PT1H20M">1 hour 20 mins</time></p>
+              </div>
+              <div></div>
+              <div>Serves:&nbsp;<span itemprop="recipeYield">5</span></div>
+              <div>&nbsp;</div>
+              </div>
+              <p itemprop="description">Mauris vel ante ac magna consectetur sagittis. Curabitur ac nunc tellus.&nbsp;</p>
+              <div>
+              <div>INGREDIENTS</div>
+              <ul>
+              <li itemprop="ingredients" style="list-style-type: disc;">olives</li>
+              <li itemprop="ingredients" style="list-style-type: disc;">cheese</li>
+              <li itemprop="ingredients" style="list-style-type: disc;">bread</li>
+              <li itemprop="ingredients" style="list-style-type: disc;">mayonnaise</li>
+              <li itemprop="ingredients" style="list-style-type: disc;">eggs</li>
+              <li itemprop="ingredients" style="list-style-type: disc;">milk</li>
+              <li itemprop="ingredients" style="list-style-type: disc;">breadcrumbs</li>
+              <li itemprop="ingredients" style="list-style-type: disc;">chicken breast</li>
+              </ul>
+              <div></div>
+              </div>
+              <div>
+              <p>INSTRUCTIONS</p>
+              <ol>
+              <li itemprop="recipeInstructions" style="list-style-type: decimal;">Donec lobortis pretium lorem tempus lacinia. Donec enim neque, posuere ut augue id, commodo feugiat risus. Curabitur sodales pretium lectus, at maximus tortor pretium non. In molestie quam non ligula scelerisque tristique. Duis vitae massa eu turpis tempor consectetur non nec tortor. Nullam blandit pellentesque maximus. Cras vitae tellus id dolor dictum aliquam ut at justo. Suspendisse eu imperdiet metus. Proin quis libero at metus suscipit faucibus at eget est. Etiam interdum metus est, eu accumsan nisl mollis vitae. Pellentesque vel egestas massa. Sed porta velit accumsan, fringilla lectus vitae, posuere sem.</li>
+              <li itemprop="recipeInstructions" style="list-style-type: decimal;">Vivamus vel luctus sem. Duis ut mattis nisi, aliquet suscipit risus. Vivamus iaculis orci ac turpis hendrerit, non ultrices neque tempus. Aenean vel malesuada enim, eu egestas ante. Aenean justo ex, accumsan eget massa a, aliquet aliquam odio. In vitae consectetur lorem.</li>
+              <li itemprop="recipeInstructions" style="list-style-type: decimal;">Non dignissim nisi lobortis in. Etiam felis arcu, malesuada nec lacinia ut, pretium ut lacus. Morbi dignissim turpis non urna placerat tempor. Nulla facilisi. Cras in massa et nulla rhoncus facilisis</li>
+              </ol>
+              </div>]]></link_url>
+                <sort_order><![CDATA[1]]></sort_order>
+              </item>
             </items>
           </dataset>
           <!-- RESOURCES END -->
