@@ -837,7 +837,7 @@ Aliquam ac nisl urna. Aliquam auctor eleifend ex id faucibus. Nullam suscipit an
               </items>
           </templateset>
 
-          <!-- 7.4. Our Videos -->
+          <!-- 7.4. Our Videos
           <templateset name="our_videos" name_friendly="Our Videos" view="our_videos" parent_item="about-us">
               <fields>
                   <text name="page_title" name_friendly="Page Title" required="1"/>
@@ -853,7 +853,7 @@ Aliquam ac nisl urna. Aliquam auctor eleifend ex id faucibus. Nullam suscipit an
                     </body_text>
                   </item>
               </items>
-          </templateset>
+          </templateset>-->
 
           <!-- 7.5. Our Photos -->
           <templateset name="our_photos" name_friendly="Our Photos" view="our_photos" parent_item="about-us">
@@ -993,7 +993,7 @@ Aliquam ac nisl urna. Aliquam auctor eleifend ex id faucibus. Nullam suscipit an
                                 </item>
               </items>
           </dataset>
-          <dataset name="about_us_videos" name_friendly="About Us Videos" parent_item="our-videos">
+          <!--<dataset name="about_us_videos" name_friendly="About Us Videos" parent_item="our-videos">
               <fields>
                   <text name="video_title" name_friendly="Video Title" list="1" />
                   <text name="youtube_id" name_friendly="YouTube ID" list="1" />
@@ -1020,7 +1020,7 @@ Aliquam ac nisl urna. Aliquam auctor eleifend ex id faucibus. Nullam suscipit an
                   <sort_order><![CDATA[3]]></sort_order>
                 </item>
               </items>
-          </dataset>
+          </dataset>-->
           <dataset name="about_us_photos" name_friendly="About Us Photos" parent_item="our-photos">
               <fields>
                   <text name="photo_title" name_friendly="Photo Title" list="1" />

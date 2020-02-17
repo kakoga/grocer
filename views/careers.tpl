@@ -16,6 +16,7 @@
 					{{ each career_opportunities as job sort by job.sort_order }}
 					<div class="row">
 						<div class="col-md-12">
+							<hr>
 							<h5>{{ job.job_title }}</h5>
 							<h6>{{ job.job_location }}</h6>
 							{{ job.job_description}}
