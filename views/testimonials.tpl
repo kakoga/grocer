@@ -11,7 +11,8 @@
        <div class="col-md-9" >
          <h1>{{ page.page_title }}</h1>
          <div class="body-text" >
-           <h5>{{ page.body_text }}</h5>
+           {{ page.body_text }}
+           <hr>
          </div>
          {{ each client_testimonials as ct sort by ct.sort_order }}
          <div class="row">
