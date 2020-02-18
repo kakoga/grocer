@@ -86,12 +86,12 @@
             <items>
               <item>
                 <logo_title><![CDATA[National Co-op Assocation]]></logo_title>
-                <footer_logo><![CDATA[https://4hk74jrt.media.zestyio.com/grocer-coop-logo.png]]></footer_logo>
+                <footer_logo><![CDATA[https://bt2vsqxl.media.zestyio.com/grocer-coop-logo.f1cb27a519bdb5b6ed34049a5b86e317.png]]></footer_logo>
                 <sort_order><![CDATA[1]]></sort_order>
               </item>
               <item>
                 <logo_title><![CDATA[CA Grocers Association]]></logo_title>
-                <footer_logo><![CDATA[https://4hk74jrt.media.zestyio.com/ca-grocer-assoc-logo.png]]></footer_logo>
+                <footer_logo><![CDATA[https://bt2vsqxl.media.zestyio.com/ca-grocer-assoc-logo.f1cb27a519bdb5b6ed34049a5b86e317.png]]></footer_logo>
                 <sort_order><![CDATA[2]]></sort_order>
               </item>
             </items>
@@ -139,7 +139,7 @@
                         <title><![CDATA[]]></title>
                         <second_line><![CDATA[]]></second_line>
                         <background_video><![CDATA[]]></background_video>
-                        <background_image><![CDATA[https://4hk74jrt.media.zestyio.com/cover.png]]></background_image>
+                        <background_image><![CDATA[https://bt2vsqxl.media.zestyio.com/store-front2.9c27d5af619089da8db7cb29e414f6ac.jpeg]]></background_image>
                         <horizontal_alignment_for_mobile><![CDATA[Center]]></horizontal_alignment_for_mobile>
                         <button_text><![CDATA[]]></button_text>
                         <links_to><![CDATA[]]></links_to>
@@ -149,7 +149,7 @@
                         <title><![CDATA[Weekly Specials]]></title>
                         <second_line><![CDATA[]]></second_line>
                         <background_video></background_video>
-                        <background_image><![CDATA[https://4hk74jrt.media.zestyio.com/fruits.jpeg]]></background_image>
+                        <background_image><![CDATA[https://bt2vsqxl.media.zestyio.com/fruits.9c27d5af619089da8db7cb29e414f6ac.jpeg]]></background_image>
                         <horizontal_alignment_for_mobile><![CDATA[Center]]></horizontal_alignment_for_mobile>
                         <button_text><![CDATA[Check our our specials]]></button_text>
                         <links_to><![CDATA[]]></links_to>
@@ -360,7 +360,7 @@
               <items>
                   <item link_title="Recipes" path_part="recipes">
                       <page_title><![CDATA[Recipes]]></page_title>
-                      <main_image><![CDATA[https://bt2vsqxl.media.zestyio.com/salad.jpg]]></main_image>
+                      <main_image><![CDATA[https://bt2vsqxl.media.zestyio.com/salad.9c27d5af619089da8db7cb29e414f6ac.jpg]]></main_image>
                       <body_text>
                         <![CDATA[<p>Mauris vel ante ac magna consectetur sagittis. Curabitur ac nunc tellus. Vivamus facilisis magna turpis, quis hendrerit justo aliquam non. Morbi varius sapien felis, vitae luctus leo ornare in. Nulla vitae eleifend mauris. Nullam libero nisi, mollis a fermentum nec, iaculis a turpis. Nulla facilisis elementum commodo. Morbi gravida est in arcu fermentum, vel scelerisque dui congue. Pellentesque mi urna, vulputate id augue nec, eleifend pharetra mi. Ut id semper metus. Fusce sed magna commodo, bibendum odio eget, iaculis metus.</p>
 
@@ -581,7 +581,7 @@
               <items>
                   <item link_title="Weekly Specials" path_part="weekly-specials">
                       <page_title><![CDATA[Weekly Specials]]></page_title>
-                      <main_image><![CDATA[https://4hk74jrt.media.zestyio.com/sale.jpeg]]></main_image>
+                      <main_image><![CDATA[https://bt2vsqxl.media.zestyio.com/weekly-specials.9c27d5af619089da8db7cb29e414f6ac.jpeg]]></main_image>
                       <body_text>
                         <![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat blandit malesuada. Donec a dignissim neque. Nunc luctus finibus neque eu egestas. Donec vulputate tortor quis purus porttitor bibendum. Curabitur mollis felis id turpis ullamcorper imperdiet. Cras vulputate magna et consequat tempus. Mauris eu turpis vel sapien consectetur vestibulum. Nullam pulvinar, lacus vitae luctus accumsan, leo dui posuere massa, eget tempus elit leo at sem. In vitae elit ac tellus blandit porttitor ut porta leo.</p>
 
@@ -621,7 +621,7 @@
               <items>
                   <item link_title="Products" path_part="products">
                       <page_title><![CDATA[Explore Our Products]]></page_title>
-                      <main_image><![CDATA[https://4hk74jrt.media.zestyio.com/gallery-3.jpg]]></main_image>
+                      <main_image><![CDATA[https://bt2vsqxl.media.zestyio.com/gallery-3.9c27d5af619089da8db7cb29e414f6ac.jpg]]></main_image>
                       <body_text><![CDATA[<p>In eget lectus dictum, dapibus eros gravida, semper libero. Nunc viverra tempor nisi, eu lacinia nisl ullamcorper ut. Vestibulum mollis porttitor congue. Curabitur lacinia, arcu id commodo sodales, dui massa consectetur orci, sit amet efficitur nibh nunc in est. Nulla consectetur sem eu nisi venenatis, nec suscipit diam faucibus. Maecenas gravida semper finibus. Quisque condimentum porttitor lacus quis commodo. Pellentesque tellus dui, sagittis vitae est nec, tristique cursus tortor. In hac habitasse platea dictumst. Nullam sit amet euismod tellus, nec sollicitudin nisi. Nulla auctor suscipit magna. Duis iaculis lorem eu finibus mattis. Sed vel mauris non velit sagittis imperdiet et eleifend orci. Vivamus posuere eros sed semper interdum. Suspendisse turpis ex, cursus in ultricies rutrum, bibendum id mi.</p>
 
 <p>Aenean consequat vitae odio id cursus. Sed vehicula ut eros id convallis. Maecenas risus ligula, eleifend imperdiet risus vel, iaculis sollicitudin ligula. Nullam malesuada nec urna sed viverra. Cras ultricies vulputate eros eu ultricies. Nunc ultricies mauris non ante sodales pulvinar. Sed vel posuere sapien, sit amet efficitur mauris. Pellentesque ultrices viverra tempus. Fusce id ligula eleifend, gravida nunc eu, pretium felis. Mauris laoreet velit et ligula gravida pellentesque.</p>]]></body_text>
@@ -724,7 +724,7 @@
               <items>
                   <item link_title="Services" path_part="services">
                       <page_title><![CDATA[Our Services]]></page_title>
-                      <main_image><![CDATA[https://4hk74jrt.media.zestyio.com/deli-prep.jpeg]]></main_image>
+                      <main_image><![CDATA[https://bt2vsqxl.media.zestyio.com/deli-prep.9c27d5af619089da8db7cb29e414f6ac.jpeg]]></main_image>
                       <body_text><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat blandit malesuada. Donec a dignissim neque. Nunc luctus finibus neque eu egestas. Donec vulputate tortor quis purus porttitor bibendum. Curabitur mollis felis id turpis ullamcorper imperdiet. Cras vulputate magna et consequat tempus. Mauris eu turpis vel sapien consectetur vestibulum. Nullam pulvinar, lacus vitae luctus accumsan, leo dui posuere massa, eget tempus elit leo at sem. In vitae elit ac tellus blandit porttitor ut porta leo.
 
 Aliquam ac nisl urna. Aliquam auctor eleifend ex id faucibus. Nullam suscipit ante ut magna sagittis placerat. Mauris et lectus nec nisl facilisis ultricies. Pellentesque vel libero diam. Morbi a leo molestie, efficitur quam eget, scelerisque metus. Duis posuere hendrerit neque at pulvinar. Fusce ac fringilla magna. Cras aliquet lacinia bibendum.]]></body_text>
@@ -742,20 +742,20 @@ Aliquam ac nisl urna. Aliquam auctor eleifend ex id faucibus. Nullam suscipit an
               <items>
                 <item link_title="Bakery" path_part="bakery" parent="services">
                   <page_title><![CDATA[Bakery]]></page_title>
-                  <main_image><![CDATA[https://4hk74jrt.media.zestyio.com/dessert-case-2.jpeg]]></main_image>
+                  <main_image><![CDATA[https://bt2vsqxl.media.zestyio.com/dessert-case-2.9c27d5af619089da8db7cb29e414f6ac.jpeg]]></main_image>
                   <body_text><![CDATA[Aliquam imperdiet diam non pretium bibendum. Nam sit amet sagittis lacus. Aliquam vel nulla magna. Quisque pretium ante at urna faucibus ultrices. Etiam eu vulputate elit. Sed eleifend, leo ut convallis gravida, odio dolor rutrum quam, ut tempor urna eros sed dui. Mauris pellentesque in orci accumsan rutrum. Sed velit ex, ultricies a velit sed, ultricies sodales diam. Nam maximus dapibus est non sagittis. Proin fermentum pellentesque nisi, eu hendrerit mauris pulvinar ac. Nulla purus nunc, pretium eget placerat at, rhoncus non tellus. Pellentesque iaculis velit a eros ultricies luctus. Nullam rutrum eleifend nibh id volutpat. Quisque sed nisi nec augue hendrerit lobortis id ut neque. Curabitur et felis augue. Curabitur rhoncus aliquam leo eu sollicitudin.]]>
                 </body_text>
                   <sort_order><![CDATA[1]]></sort_order>
                 </item>
                 <item link_title="Deli" path_part="deli" parent="services">
                   <page_title><![CDATA[Deli]]></page_title>
-                  <main_image><![CDATA[https://4hk74jrt.media.zestyio.com/salad.jpg]]></main_image>
+                  <main_image><![CDATA[https://bt2vsqxl.media.zestyio.com/salad.9c27d5af619089da8db7cb29e414f6ac.jpg]]></main_image>
                   <body_text><![CDATA[Aliquam imperdiet diam non pretium bibendum. Nam sit amet sagittis lacus. Aliquam vel nulla magna. Quisque pretium ante at urna faucibus ultrices. Etiam eu vulputate elit. Sed eleifend, leo ut convallis gravida, odio dolor rutrum quam, ut tempor urna eros sed dui. Mauris pellentesque in orci accumsan rutrum. Sed velit ex, ultricies a velit sed, ultricies sodales diam. Nam maximus dapibus est non sagittis. Proin fermentum pellentesque nisi, eu hendrerit mauris pulvinar ac. Nulla purus nunc, pretium eget placerat at, rhoncus non tellus. Pellentesque iaculis velit a eros ultricies luctus. Nullam rutrum eleifend nibh id volutpat. Quisque sed nisi nec augue hendrerit lobortis id ut neque. Curabitur et felis augue. Curabitur rhoncus aliquam leo eu sollicitudin.]]></body_text>
                   <sort_order><![CDATA[2]]></sort_order>
                 </item>
                 <item link_title="Butcher" path_part="butcher" parent="services">
                   <page_title><![CDATA[Butcher]]></page_title>
-                  <main_image><![CDATA[https://4hk74jrt.media.zestyio.com/grilling-meat.jpeg]]></main_image>
+                  <main_image><![CDATA[https://bt2vsqxl.media.zestyio.com/grilling-meat.9c27d5af619089da8db7cb29e414f6ac.jpeg]]></main_image>
                   <body_text><![CDATA[Aliquam imperdiet diam non pretium bibendum. Nam sit amet sagittis lacus. Aliquam vel nulla magna. Quisque pretium ante at urna faucibus ultrices. Etiam eu vulputate elit. Sed eleifend, leo ut convallis gravida, odio dolor rutrum quam, ut tempor urna eros sed dui. Mauris pellentesque in orci accumsan rutrum. Sed velit ex, ultricies a velit sed, ultricies sodales diam. Nam maximus dapibus est non sagittis. Proin fermentum pellentesque nisi, eu hendrerit mauris pulvinar ac. Nulla purus nunc, pretium eget placerat at, rhoncus non tellus. Pellentesque iaculis velit a eros ultricies luctus. Nullam rutrum eleifend nibh id volutpat. Quisque sed nisi nec augue hendrerit lobortis id ut neque. Curabitur et felis augue. Curabitur rhoncus aliquam leo eu sollicitudin.]]></body_text>
                   <sort_order><![CDATA[3]]></sort_order>
                 </item>
@@ -1071,7 +1071,7 @@ Aliquam ac nisl urna. Aliquam auctor eleifend ex id faucibus. Nullam suscipit an
               <items>
                   <item link_title="Store Tour" path_part="store-tour" parent="about-us">
                       <page_title><![CDATA[Store Tour]]></page_title>
-                      <main_image><![CDATA[https://4hk74jrt.media.zestyio.com/vegetables.jpeg]]></main_image>
+                      <main_image><![CDATA['https://bt2vsqxl.media.zestyio.com/vegetables-2.9c27d5af619089da8db7cb29e414f6ac.jpeg]]></main_image>
                       <youtube_id><![CDATA[hp9GBDR4LCo]]></youtube_id>
                       <body_text>
                         <![CDATA[]]>
