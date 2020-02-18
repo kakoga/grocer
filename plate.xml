@@ -655,7 +655,7 @@
               </item>
             </items>
           </templateset>
-            <!-- 5.2 Payment Options -->
+            <!-- 5.2 Payment Options
           <templateset name="payment_options" name_friendly="Payment Options" view="payment_options" parent_item="patient-resources">
             <fields>
                 <text name="page_title" name_friendly="Page Title" required="1" />
@@ -681,8 +681,8 @@
                   </body_text>
               </item>
             </items>
-          </templateset>
-          <!-- Patient Resources Datasets -->
+          </templateset>-->
+          <!-- Patient Resources Datasets
           <dataset name="online_forms" name_friendly="Online Forms" parent_item="patient-forms">
               <fields>
                   <text name="form_title" name_friendly="Form Title" list="1" />
@@ -710,7 +710,7 @@
                   <sort_order><![CDATA[3]]></sort_order>
                 </item>
               </items>
-          </dataset>
+          </dataset> -->
 
           <!-- PATIENT RESOURCES END -->
 
@@ -1031,31 +1031,31 @@ Aliquam ac nisl urna. Aliquam auctor eleifend ex id faucibus. Nullam suscipit an
               </fields>
               <items>
                 <item>
-                  <photo_title><![CDATA[]]></photo_title>
+                  <photo_title><![CDATA[Lorem ipsum]]></photo_title>
                   <photo_category><![CDATA[]]></photo_category>
-                  <about_us_photo><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/about-us-our-photos-kitkat.jpg]]></about_us_photo>
-                  <photo_description><![CDATA[]]></photo_description>
+                  <about_us_photo><![CDATA[https://bt2vsqxl.media.zestyio.com/lunch.f1cb27a519bdb5b6ed34049a5b86e317.jpeg]]></about_us_photo>
+                  <photo_description><![CDATA[Lorem ipsum dolor sit amet.]]></photo_description>
                   <sort_order><![CDATA[1]]></sort_order>
                 </item>
                 <item>
-                  <photo_title><![CDATA[]]></photo_title>
+                  <photo_title><![CDATA[Lorem ipsum]]></photo_title>
                   <photo_category><![CDATA[]]></photo_category>
-                  <about_us_photo><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/about-us-our-photos-mister-cheddar.jpg]]></about_us_photo>
-                  <photo_description><![CDATA[]]></photo_description>
+                  <about_us_photo><![CDATA[https://bt2vsqxl.media.zestyio.com/fresh-produce.f1cb27a519bdb5b6ed34049a5b86e317.jpeg]]></about_us_photo>
+                  <photo_description><![CDATA[Lorem ipsum dolor sit amet.]]></photo_description>
                   <sort_order><![CDATA[2]]></sort_order>
                 </item>
                 <item>
-                  <photo_title><![CDATA[]]></photo_title>
+                  <photo_title><![CDATA[Lorem ipsum]]></photo_title>
                   <photo_category><![CDATA[]]></photo_category>
-                  <about_us_photo><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/about-us-our-photos-nurse-helps.jpg]]></about_us_photo>
-                  <photo_description><![CDATA[]]></photo_description>
+                  <about_us_photo><![CDATA[https://bt2vsqxl.media.zestyio.com/gallery-4.f1cb27a519bdb5b6ed34049a5b86e317.jpg]]></about_us_photo>
+                  <photo_description><![CDATA[Lorem ipsum dolor sit amet.]]></photo_description>
                   <sort_order><![CDATA[3]]></sort_order>
                 </item>
                 <item>
-                  <photo_title><![CDATA[]]></photo_title>
+                  <photo_title><![CDATA[Lorem ipsum]]></photo_title>
                   <photo_category><![CDATA[]]></photo_category>
-                  <about_us_photo><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/about-us-main.jpg]]></about_us_photo>
-                  <photo_description><![CDATA[]]></photo_description>
+                  <about_us_photo><![CDATA[https://bt2vsqxl.media.zestyio.com/seafood.f1cb27a519bdb5b6ed34049a5b86e317.jpeg]]></about_us_photo>
+                  <photo_description><![CDATA[Lorem ipsum dolor sit amet.]]></photo_description>
                   <sort_order><![CDATA[4]]></sort_order>
                 </item>
               </items>
@@ -1072,7 +1072,7 @@ Aliquam ac nisl urna. Aliquam auctor eleifend ex id faucibus. Nullam suscipit an
                   <item link_title="Store Tour" path_part="store-tour" parent="about-us">
                       <page_title><![CDATA[Store Tour]]></page_title>
                       <main_image><![CDATA[https://4hk74jrt.media.zestyio.com/vegetables.jpeg]]></main_image>
-                      <youtube_id><![CDATA[H2p1UZlgLjo]]></youtube_id>
+                      <youtube_id><![CDATA[hp9GBDR4LCo]]></youtube_id>
                       <body_text>
                         <![CDATA[]]>
                       </body_text>
@@ -1090,24 +1090,24 @@ Aliquam ac nisl urna. Aliquam auctor eleifend ex id faucibus. Nullam suscipit an
               </fields>
               <items>
                 <item>
-                  <photo_title><![CDATA[]]></photo_title>
+                  <photo_title><![CDATA[Specialty Oils]]></photo_title>
                   <photo_category><![CDATA[]]></photo_category>
-                  <office_photo><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/office-photo-front-office.jpg]]></office_photo>
-                  <photo_description><![CDATA[]]></photo_description>
+                  <office_photo><![CDATA[https://bt2vsqxl.media.zestyio.com/gallery-1.91b55500740cc46d5a10ba3ae139d246.jpg]]></office_photo>
+                  <photo_description><![CDATA[Lorem ipsum dolor sit amet.]]></photo_description>
                   <sort_order><![CDATA[1]]></sort_order>
                 </item>
                 <item>
-                  <photo_title><![CDATA[]]></photo_title>
+                  <photo_title><![CDATA[Imported snacks]]></photo_title>
                   <photo_category><![CDATA[]]></photo_category>
-                  <office_photo><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/office-photos-backoffice.jpg]]></office_photo>
-                  <photo_description><![CDATA[]]></photo_description>
+                  <office_photo><![CDATA[https://bt2vsqxl.media.zestyio.com/gallery-3.91b55500740cc46d5a10ba3ae139d246.jpg]]></office_photo>
+                  <photo_description><![CDATA[Lorem ipsum dolor sit amet.]]></photo_description>
                   <sort_order><![CDATA[2]]></sort_order>
                 </item>
                 <item>
-                  <photo_title><![CDATA[]]></photo_title>
+                  <photo_title><![CDATA[Flavored syrups.]]></photo_title>
                   <photo_category><![CDATA[]]></photo_category>
-                  <office_photo><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/office-photo-exam-room.JPG]]></office_photo>
-                  <photo_description><![CDATA[]]></photo_description>
+                  <office_photo><![CDATA[https://bt2vsqxl.media.zestyio.com/gallery-2.91b55500740cc46d5a10ba3ae139d246.jpg]]></office_photo>
+                  <photo_description><![CDATA[Lorem ipsum dolor sit amet.]]></photo_description>
                   <sort_order><![CDATA[3]]></sort_order>
                 </item>
               </items>
