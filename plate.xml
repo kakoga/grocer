@@ -628,7 +628,7 @@
                   </item>
               </items>
           </templateset>
-          <!-- 5.1 Patient Forms -->
+          <!-- 5.1 Patient Forms
           <templateset name="patient_forms" name_friendly="Patient Forms" view="patient_forms" parent_item="patient-resources">
             <fields>
                 <text name="page_title" name_friendly="Page Title" required="1" />
@@ -654,7 +654,7 @@
                   <send_form_to><![CDATA[]]></send_form_to>
               </item>
             </items>
-          </templateset>
+          </templateset>-->
             <!-- 5.2 Payment Options
           <templateset name="payment_options" name_friendly="Payment Options" view="payment_options" parent_item="patient-resources">
             <fields>
